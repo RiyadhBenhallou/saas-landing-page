@@ -1,4 +1,5 @@
 import illustrationIntro from "../assets/illustration-intro.svg";
+// const illustrationIntro = require("../assets/illustration-intro.svg") as string;
 
 export default function Hero() {
   return (
